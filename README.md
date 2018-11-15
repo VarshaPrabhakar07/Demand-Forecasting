@@ -1,4 +1,4 @@
-# potential-broccoli
+# Demand Forecasting
 Using R for Analytics Final Project
 
 
